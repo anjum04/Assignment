@@ -11,5 +11,5 @@ Then, it parses the JWT token and gets the claims (i.e., payload) using the prov
 Finally, it returns a string that contains the extracted values and the formatted expiration time.
 
 
-You can use this API by generating a JWT token with the desired values and expiration time, and passing it as a Bearer token in the Authorization header of a GET request to the /api/values endpoint.
+we can use this API by generating a JWT token with the desired values and expiration time, and passing it as a Bearer token in the Authorization header of a GET request to the /api/values endpoint.
 
