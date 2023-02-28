@@ -6,8 +6,6 @@ with its expiration time.
 
 
 
-
-
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;
@@ -47,6 +45,9 @@ public class JwtApiController {
                 username, email, expirationTime.format(formatter));
     }
 }
+
+
+
 
 
 
