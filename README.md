@@ -1,8 +1,4 @@
-# Assignment
 
-Task 1
-Create an API in which you will pass the JWT token and retrieve the values saved in that token
-with its expiration time.
 
 
 
